@@ -12,15 +12,15 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change language using ISO 639-1 code",
-  "nickNameBot": "♡┋Տʜɪᴢᴜᴋꫝㅤᥫ᭡",
-  "prefix": "/",
+  "nickNameBot": "🜙🜄🜊𝐎🜋𝐂𝐓𝐀𝐂𝐎𝐃𝐄 𝐀𝐈🜙🜄🜊",
+  "prefix": "!",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
   "adminBot": [
-    "61568791604271",
-    "61580333625022"
+    "61585694014120",
+    "61588455194733"
   ],
   "reactUnsend": {
     "enable": true,
@@ -31,8 +31,8 @@
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "61568791604271",
-      "61580333625022"
+      "61585694014120",
+      "61588455194733"
     ],
     "notes": "If enabled, only IDs in whiteListIds can use the bot."
   },
