@@ -38,7 +38,7 @@
   },
   "whiteListModeThread": {
     "enable": false,
-    "whiteListThreadIds": [],
+    "whiteListThreadIds": [61588455194733],
     "notes": "If enabled, only threads in whiteListThreadIds can use the bot."
   },
   "database": {
